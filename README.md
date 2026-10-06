@@ -1,7 +1,7 @@
 # NBA Scoring and Win/Loss Prediction Model
-Created two different prediction models. The first one is a multiple linear regression model that predicted team scoring output, with EDA and stepwise regression to identify influential predictors. 
+There are two parts to this project. The first part consists of using a multiple linear regression model to predicted team scoring output, with EDA and stepwise regression to identify influential predictors. 
 
-The second version is an implementation of an ETL pipeline where I trained classification models using cross-validation, grid search and early stopping. Here is the workflow and observations:
+The second part is an implementation of an ETL pipeline where I trained 3 different classification models (logistic regression, random forests, and neural networks) using cross-validation, grid search and early stopping. Here is the workflow and observations of the second part of the project:
 
 Step 1. ETL (Extract → Transform → Load)
 
